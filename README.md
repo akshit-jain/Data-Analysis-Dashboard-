@@ -28,6 +28,11 @@ The two bases measures that I have defined are Revenue and Sales Quantity.
 
 
 
+Thanks to codebasics for the dataset and teachings.
+
+
+
+
 
 
 
